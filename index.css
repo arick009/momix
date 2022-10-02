@@ -10,6 +10,9 @@
 	position: relative;
 	background: url('https://i.ibb.co/vXqDmnh/background.jpg') no-repeat center center/cover;
 }
+.margin-left-40{
+margin-left: 40px;
+}
 .showcase::after {
 	content: '';
 	position: absolute;
